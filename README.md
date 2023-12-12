@@ -1,4 +1,4 @@
-# App-Dev- Marquez, JOhn Francis L.
+# App-Dev- Marquez, John Francis L.
 # My First Repository
 
 # My Favorite Series
